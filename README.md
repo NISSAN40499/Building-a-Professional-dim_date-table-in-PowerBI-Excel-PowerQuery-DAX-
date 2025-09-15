@@ -135,7 +135,9 @@ FY Month No = MONTH( DATE( YEAR( dim_date[Date] ), MONTH( dim_date[Date] ) + 4, 
 👉 **What is a Quarter?**
 A **Quarter** is a three-month period in a fiscal year, commonly used for financial results (Q1, Q2, Q3, Q4).
 
-🖼️ Example illustration: <img src="https://i.imgur.com/Rm2c5Zp.png" alt="Fiscal Year Quarters" width="400"/>
+🖼️ Example illustration:  
+
+ <img src="https://github.com/NISSAN40499/Building-a-Professional-dim_date-table-in-PowerBI-Excel-PowerQuery-DAX-/blob/main/images/Screenshot%202025-09-15%20124422.png" width="900"/>
 
 Formula:
 
