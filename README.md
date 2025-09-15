@@ -1,4 +1,5 @@
 #  Build a Robust `dim_date` Table in PowerBI (Power Query + DAX)
+<img src="https://github.com/NISSAN40499/Building-a-Professional-dim_date-table-in-PowerBI-Excel-PowerQuery-DAX-/blob/main/images/how%20to%20create%20a%20date%20table%20in%20powerbi%20.jpg" width="950"/>
 
 A robust **date dimension (`dim_date`) table** is the backbone of any good Power BI data model.  
 Without it, time-based analysis (YoY growth, fiscal reporting, seasonality trends, etc.) becomes messy and inconsistent.  
